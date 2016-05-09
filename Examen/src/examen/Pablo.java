@@ -10,5 +10,5 @@ package examen;
  * @author Pablite5
  */
 public class Pablo {
-    
+    int hola;
 }
